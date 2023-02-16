@@ -2567,7 +2567,7 @@ hpd.baidu.com
 hq.appsflyer.com
 hs.qhupdate.com
 hshv.7kzw.com
-ht. sogou.com
+ht.sogou.com
 html.atm.youku.com
 html5adkit.plusmo.s3.amazonaws.com
 httpdns.push.oppomobile.com
@@ -2885,7 +2885,6 @@ jpg.cooguo.com
 jpg.inte.sogoucdn.com
 jpg.mengbingyuan.com
 jpush.html5.qq.com
-jq download
 jq.download
 jqassets.download
 jqcdn.download
@@ -4080,7 +4079,6 @@ pl.cp12.wasu.tv
 planitinfo.crsspxl.com
 plat.videojj.com
 platform.adwep.com
-play. intellecthosting.net
 play.besstahete.info
 play.estream.nu
 play.estream.to
@@ -4088,6 +4086,7 @@ play.estream.xyz
 play.feesocrald.com
 play.flowplayer.space
 play.gramombird.com
+play.intellecthosting.net
 play.istlandoll.com
 play.malictuiar.com
 play.mine.gay-hotvideo.net
@@ -5632,7 +5631,6 @@ vxs.eexiaoshuo.com
 vxsnk.com
 vyk.admaster.com.cn
 vz-cdn.trafficjunky.net
-w adleads.com
 w.domob.cn
 w.gdown.baidu.com
 w.l.qq.com
@@ -5647,6 +5645,7 @@ w3.yinyuehu.cn
 w6061.move7.com
 wa.gtimg.com
 wa.kuwo.cn
+wadleads.com
 wan.2345.com
 wan.sogou.com
 wangbase.com
