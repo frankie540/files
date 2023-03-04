@@ -11,3 +11,9 @@ USER-AGENT,*t66y*
 DOMAIN-KEYWORD,t66y
 DOMAIN,t66y.com
 DOMAIN-SUFFIX,t66y.com
+
+# 内容：bulianglin
+USER-AGENT,*bulianglin*
+DOMAIN-KEYWORD,bulianglin
+DOMAIN,bulianglin.com
+DOMAIN-SUFFIX,bulianglin.com
