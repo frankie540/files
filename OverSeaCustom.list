@@ -17,3 +17,9 @@ USER-AGENT,*bulianglin*
 DOMAIN-KEYWORD,bulianglin
 DOMAIN,bulianglin.com
 DOMAIN-SUFFIX,bulianglin.com
+
+# 内容：ossplanet
+USER-AGENT,*ossplanet*
+DOMAIN-KEYWORD,ossplanet
+DOMAIN,mirror.ossplanet.net
+DOMAIN-SUFFIX,mirror.ossplanet.net
