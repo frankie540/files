@@ -23,3 +23,7 @@ USER-AGENT,*ossplanet*
 DOMAIN-KEYWORD,ossplanet
 DOMAIN,mirror.ossplanet.net
 DOMAIN-SUFFIX,mirror.ossplanet.net
+
+# 内容：ftp.ubuntu-tw.org
+DOMAIN,ftp.ubuntu-tw.org
+DOMAIN-SUFFIX,ftp.ubuntu-tw.org
